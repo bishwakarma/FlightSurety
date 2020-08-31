@@ -26,7 +26,7 @@ Account default balance: 1000 ETH
 
 Port number: 8545
 ```
-##To run tests
+## To run tests
 - Edit truffle-config.js
 
         comment line: 7-9
